@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    padding: 0;
+    background-color: rosybrown;
+}
+  
+.form{
+    border-radius: 70px;
+    width: 500px;
+    margin: 50px auto;
+    height: 350px;
+    background-color: white;
+    box-shadow: 10px 10px 10px rgba(0,0,0,.75);
+}
+  
+input{
+    border: none;
+    outline: none;
+    width: 430px;
+    border-bottom: 1px solid #6679BA;
+    padding: 10px 0px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+  
+.head{
+    font: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #6679BA;
+    line-height: 65px;
+}
+  
+.main{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+  
+button[type=submit], button[type=reset] {
+    background: #6679BA;
+    outline: none;
+    width: 430px;
+    border: 1px solid ;
+    font-size: 18px;
+    letter-spacing: 5px;
+    padding: 10px;
+    cursor: pointer;
+    margin: 5px;
+}

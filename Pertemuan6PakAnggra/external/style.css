@@ -1,0 +1,24 @@
+.atas {
+    width: 700px;
+    height: 90px;
+    background-color: lightsteelblue;
+    margin: auto;
+}
+
+.tengah {
+    width: 700px;
+    height: 500px;
+    background-color: salmon;
+    margin: auto;
+    text-align: center;
+    line-height: 500px;
+    font-size: large;
+    font-family: Helvetica;
+}
+
+.bawah {
+    width: 700px;
+    height: 90px;
+    background-color: lightslategrey;
+    margin: auto;
+}
